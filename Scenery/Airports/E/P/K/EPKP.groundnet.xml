@@ -9,9 +9,9 @@
              type="ga"
              name="1"
              number=""
-             lat="N50 05.058"
-             lon="E20 11.894"
-             heading="182.69"
+             lat="N50 5.052"
+             lon="E20 11.826"
+             heading="0"
              radius="17.3"
              airlineCodes="" />
 
@@ -19,9 +19,49 @@
              type="ga"
              name="2"
              number=""
-             lat="N50 05.069"
-             lon="E20 11.735"
-             heading="-180.05"
+             lat="N50 5.052"
+             lon="E20 11.808"
+             heading="0"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="0"
+             type="ga"
+             name="3"
+             number=""
+             lat="N50 5.052"
+             lon="E20 11.79"
+             heading="0"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="0"
+             type="ga"
+             name="4"
+             number=""
+             lat="N50 5.082"
+             lon="E20 11.79"
+             heading="180"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="0"
+             type="ga"
+             name="5"
+             number=""
+             lat="N50 5.082"
+             lon="E20 11.808"
+             heading="180"
+             radius="17.3"
+             airlineCodes="" />
+
+    <Parking index="0"
+             type="ga"
+             name="6"
+             number=""
+             lat="N50 5.082"
+             lon="E20 11.826"
+             heading="180"
              radius="17.3"
              airlineCodes="" />
 
