@@ -1,3 +1,3 @@
 #!/bin/bash
 
-fgfs --fg-scenery=. --aircraft=ufo --airport=EPKP
+fgfs --fg-scenery=. --aircraft=ufo --airport=EPKP --timeofday=noon
